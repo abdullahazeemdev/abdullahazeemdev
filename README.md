@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm ABDULLAH AZEEM</h1>
 <h3 align="center">Future Full Stack Developer 🚀</h3>
 
-- 🔭 I’m currently working on [facebook](https://github.com/abdullahazeemdev/facebook)
+- 🔭 I’m currently working on [React]
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
