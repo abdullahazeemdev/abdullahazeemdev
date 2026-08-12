@@ -18,10 +18,11 @@
 
 ---
 
-### 🤝 Collaboration
+<h3 align="left">💼 Internship Opportunities</h3>
 
-* 👯 I’m looking to collaborate on [Currency Converter](https://github.com/abdullahazeemdev/Currency-Converter)
-* 🤝 I’m looking for help with [Hackatone 2026](https://github.com/abdullahazeemdev/hackatone2026)
+- 🔎 I’m currently looking for a **Frontend Developer Internship**
+- 🚀 Open to **paid or unpaid internship opportunities**
+- 📍 Available for **on-site opportunities in Karachi**
 
 ---
 
